@@ -1,0 +1,55 @@
+
+{
+  "lastUpdated": "2024-05-21T08:30:00Z",
+  "news": [
+    {
+      "id": "n1",
+      "title": "Scaling Laws Still Intact: New Research Findings",
+      "summary": "Recent compute-optimal scaling analysis confirms that we are still far from hitting data ceilings for large model pre-training.",
+      "source": "Local ML Monitor",
+      "url": "https://arxiv.org",
+      "date": "2024-05-20",
+      "category": "LLM"
+    },
+    {
+      "id": "n2",
+      "title": "Open-Source Agents Outperform Proprietary Baselines",
+      "summary": "A breakthrough in small model reasoning allows 7B parameters agents to handle complex multi-step workflows previously reserved for GPT-4.",
+      "source": "Local ML Monitor",
+      "url": "https://huggingface.co",
+      "date": "2024-05-19",
+      "category": "Agents"
+    }
+  ],
+  "projects": [
+    {
+      "id": "p1",
+      "name": "Local News Curator",
+      "description": "A Python-based agent that monitors 50+ AI sources and generates this website's content daily.",
+      "tech": ["Python", "NVIDIA GPU", "React"],
+      "image": "https://picsum.photos/seed/curator/800/400"
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": "b1",
+      "title": "The GPU Standard: Why Compute is the New Oil",
+      "excerpt": "Analyzing the shift from monetary liquidity to compute liquidity as the primary driver of technological growth.",
+      "content": "...",
+      "date": "2024-05-15",
+      "category": "Economics",
+      "readTime": "12 min"
+    }
+  ],
+  "chineseWritings": [
+    {
+      "id": "w1",
+      "title": "Philosophy of the Machine",
+      "originalTitle": "机器时代的精神定力",
+      "excerpt": "探讨在算法包围的世界里,人类如何保持最后的一点主体性。",
+      "date": "2024-05-10",
+      "tags": ["哲学", "随笔"],
+      "content": "..."
+    }
+  ]
+}
