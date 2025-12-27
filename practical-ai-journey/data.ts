@@ -1,5 +1,5 @@
 export const siteData = {
-  "lastUpdated": "2025-12-26T23:59:00Z",
+  "lastUpdated": "2025-12-27T00:11:00Z",
   "news": [
     {
       "id": "n1",
