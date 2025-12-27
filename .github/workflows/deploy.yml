@@ -22,11 +22,12 @@ jobs:
           node-version: 20
 
       - name: Install dependencies
-        # Using --no-save ensures we don't modify the lockfile in a way that breaks the next run
         run: npm install
+        working-directory: practical-ai-journey
 
       - name: Build
         run: npm run build
+        working-directory: practical-ai-journey
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
@@ -34,8 +35,9 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './dist'
+          path: practical-ai-journey/dist
 
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
