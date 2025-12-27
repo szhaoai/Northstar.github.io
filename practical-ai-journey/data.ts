@@ -7,7 +7,7 @@ export const siteData = {
       "summary": "Recent compute-optimal scaling analysis confirms that we are still far from hitting data ceilings for large model pre-training.",
       "source": "Local ML Monitor",
       "url": "https://arxiv.org",
-      "date": "2024-05-20",
+      "date": "2025-12-26",
       "category": "LLM"
     },
     {
@@ -16,7 +16,7 @@ export const siteData = {
       "summary": "A breakthrough in small model reasoning allows 7B parameters agents to handle complex multi-step workflows previously reserved for GPT-4.",
       "source": "Local ML Monitor",
       "url": "https://huggingface.co",
-      "date": "2024-05-19",
+      "date": "2025-12-26",
       "category": "Agents"
     }
   ],
@@ -44,7 +44,7 @@ export const siteData = {
       "title": "The GPU Standard: Why Compute is the New Oil",
       "excerpt": "Analyzing the shift from monetary liquidity to compute liquidity as the primary driver of technological growth.",
       "content": "...",
-      "date": "2024-05-15",
+      "date": "2025-12-26",
       "category": "Economics",
       "readTime": "12 min"
     }
@@ -53,9 +53,9 @@ export const siteData = {
     {
       "id": "w1",
       "title": "Philosophy of the Machine",
-      "originalTitle": "机器时代的精神定力",
-      "excerpt": "探讨在算法包围的世界里,人类如何保持最后的一点主体性。",
-      "date": "2024-05-10",
+      "originalTitle": "渥村往事",
+      "excerpt": "桃李春风一杯酒，江湖夜雨十年灯。",
+      "date": "2025-12-26",
       "tags": ["哲学", "随笔"],
       "content": "..."
     }
