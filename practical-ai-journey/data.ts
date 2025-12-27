@@ -52,9 +52,8 @@ export const siteData = {
   "chineseWritings": [
     {
       "id": "w1",
-      "title": "Philosophy of the Machine",
+      "title": "桃李春风一杯酒，江湖夜雨十年灯。",
       "originalTitle": "渥村往事",
-      "excerpt": "桃李春风一杯酒，江湖夜雨十年灯。",
       "date": "2025-12-26",
       "tags": ["哲学", "随笔"],
       "content": "..."
