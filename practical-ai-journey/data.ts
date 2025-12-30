@@ -9,8 +9,6 @@ export const siteData = {
       "date": "2025-12-26",
       "category": "M&A"
     },
-  
-
     
     {
         "id": "n1",
@@ -20,11 +18,7 @@ export const siteData = {
       "url": "https://arxiv.org",
       "date": "2025-12-26",
         "categor": "LLM"
-    },
-
-
-    
-    {
+    },    
       {"id": "n2",
       "title": "Open-Source Agents Outperform Proprietary Baselines",
       "summary": "A breakthrough in small model reasoning allows 7B parameters agents to handle complex multi-step workflows previously reserved for GPT-4.",
