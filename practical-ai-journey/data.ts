@@ -8,24 +8,24 @@ export const siteData = {
       "source": "Local ML Monitor",      
       "date": "2025-12-26",
       "category": "M&A"
-    }
+    },
   
 
     
     {
-      "id": "n1",
+        "id": "n1",
       "title": "Scaling Laws Still Intact: New Research Findings",
       "summary": "Recent compute-optimal scaling analysis confirms that we are still far from hitting data ceilings for large model pre-training.",
       "source": "Local ML Monitor",
       "url": "https://arxiv.org",
       "date": "2025-12-26",
-      "category": "LLM"
-    }
+        "categor": "LLM"
+    },
 
 
     
     {
-      "id": "n2",
+      {"id": "n2",
       "title": "Open-Source Agents Outperform Proprietary Baselines",
       "summary": "A breakthrough in small model reasoning allows 7B parameters agents to handle complex multi-step workflows previously reserved for GPT-4.",
       "source": "Local ML Monitor",
